@@ -1,0 +1,24 @@
+input:focus,textarea:focus{
+    border-color: #2563eb;
+outline: none;
+box-shadow: 0 0 0 2px rgba(37,99, 235, 0.2);
+}
+
+#enquiryTableBody{
+    border: #2563eb;
+}
+.card-title2{
+    color: #7c3aed;
+    font-size: 22px;
+}
+.card-title1{
+    color: #16a34a;
+    font-size: 22px;
+}
+.form-label{
+    color: hsl(247, 84%, 38%);
+    
+}
+.card-body{
+    padding: 30px;
+}
